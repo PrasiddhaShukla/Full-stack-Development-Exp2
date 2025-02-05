@@ -1,0 +1,27 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Hero Section */
+.hero {
+    background: url('football-bg.jpg') no-repeat center center/cover;
+    color: black;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+
+/* Table Styling */
+.table {
+    margin-top: 20px;
+}
+
+/* Footer */
+footer {
+    margin-top: 50px;
+}
